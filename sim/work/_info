@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/githubPrj/fpga_prj/crc8/sim
+T_opt
+!s110 1681522994
+V:?`fQ0`nT[i;1zi=ZS87<1
+Z1 04 4 4 work glbl fast 0
+Z2 04 7 4 work tb_crc8 fast 0
+=1-1008b1f6cc79-643a0132-209-d00
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1681524272
+VSVY`@_`Vh_[D838I=8FC^1
+R1
+R2
+=1-1008b1f6cc79-643a0630-225-242c
+R3
+R4
+n@_opt1
+R5
+R0
+T_opt2
+!s110 1681818251
+Ve`59@NIBShdmn0zSKg70<2
+R1
+R2
+=1-68f72837c90f-643e828b-199-37ac
+R3
+R4
+n@_opt2
+R5
+vcrc8
+Z6 !s110 1681818246
+!i10b 1
+!s100 i=VP]QNGjh[3cBDgRJ1L<3
+Z7 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILak8@mRC603nElH]eiC?C1
+R0
+w1681804742
+8../src/crc8.v
+F../src/crc8.v
+!i122 42
+L0 4 65
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1681818246.000000
+!s107 ../src/crc8.v|
+!s90 -reportprogress|300|-work|work|../src/crc8.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+R4
+vglbl
+R6
+!i10b 1
+!s100 DCW3=ePZ4oEojGg2KL;HS0
+R7
+IUnoQ6^CBWl`mlgKN0?KI32
+R0
+w1558713910
+8glbl.v
+Fglbl.v
+!i122 41
+L0 6 65
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 glbl.v|
+!s90 -reportprogress|300|-work|work|glbl.v|
+!i113 0
+R11
+R4
+vtb_crc8
+R6
+!i10b 1
+!s100 >P<02S2Z?M572c=L<`hJe2
+R7
+IZ1O?^7BDElX1]TXB8T?O@2
+R0
+w1681818240
+8tb_crc8.v
+Ftb_crc8.v
+!i122 43
+L0 2 37
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 tb_crc8.v|
+!s90 -reportprogress|300|-work|work|tb_crc8.v|
+!i113 0
+R11
+R4
